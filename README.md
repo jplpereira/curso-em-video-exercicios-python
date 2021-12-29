@@ -1,6 +1,6 @@
 # Curso em Vídeo - Exercícios de Python 3
 
-Este repositório contém os notebooks com a listas de exercícios propostos pelo professor Gustavo Guanabara do canal Curso em Vídeo do YouTube durante o Curso de Python 3.
+Este repositório contém os notebooks com a listas de exercícios propostos pelo professor [Gustavo Guanabara](https://github.com/gustavoguanabara) do canal Curso em Vídeo do YouTube durante o Curso de Python 3.
 
 Até o presente momento, o curso possui 3 módulos chamados de Mundos. As listas de vídeos de cada um dos Mundos com as aulas teóricas e os respectivos exercícios encontra-se abaixo:
 
