@@ -1,0 +1,27 @@
+Exercício Python 043: Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu Índice de Massa Corporal (IMC) e mostre seu status, de acordo com a tabela abaixo:
+- IMC abaixo de 18,5: Abaixo do Peso
+- Entre 18,5 e 25: Peso Ideal
+- 25 até 30: Sobrepeso
+- 30 até 40: Obesidade
+- Acima de 40: Obesidade Mórbida
+
+
+Veja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
+Veja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye
+Veja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-
+
+Gostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie
+
+Aula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.
+
+Curso em Vídeo
+Seja um apoiador: http://cursoemvideo.com/apoie
+Site: http://www.cursoemvideo.com
+YouTube: http://www.youtube.com/cursoemvideo
+Facebook: http://www.facebook.com/cursosemvideo
+Twitter: http://twitter.com/cursosemvideo
+Google+: http://plus.google.com/112666558837414979080
+
+Patrocínio
+HOSTNET: http://www.hostnet.com.br
+GAFANHOTOS: http://apoie.me/cursoemvideo
